@@ -1,4 +1,8 @@
 # LicensePlistViewForSwiftUI
+
+![SwiftPM: Supported (shields.io)](https://img.shields.io/badge/SwiftPM-Supported-blue)
+![license: MIT (shields.io)](https://img.shields.io/badge/license-MIT-green)
+
 - `LicensePlistViewForSwiftUI` is a implementation of displaying LicensePlist `Settings.bundle` file on macos with SwiftUI.
 
 <img width="600" alt="image" src="https://i.imgur.com/sixeD0U.png">
