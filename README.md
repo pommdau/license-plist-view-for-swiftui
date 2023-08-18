@@ -1,5 +1,6 @@
 # LicensePlistViewForSwiftUI
 
+![Platform: macOS (shields.io)](https://img.shields.io/badge/platform-macOS-lightgrey)
 ![SwiftPM: Supported (shields.io)](https://img.shields.io/badge/SwiftPM-Supported-blue)
 ![license: MIT (shields.io)](https://img.shields.io/badge/license-MIT-green)
 
