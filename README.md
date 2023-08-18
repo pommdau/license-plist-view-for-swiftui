@@ -45,7 +45,7 @@ enum WindowID {
 ```
 
 # References
-## LicensePlistWindowController
+## [LicensePlistWindowController](https://github.com/cathandnya/LicensePlistWindowController)
 
 ```
 Copyright (c) 2019 nya
